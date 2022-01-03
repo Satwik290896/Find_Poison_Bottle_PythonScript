@@ -1,5 +1,7 @@
 # Find_Poison_Bottle_PythonScript
+
 The devil decides to send you 1000 bottles of wine, but one of them is poisoned. He also sent you 10 testing strips that can detect the poison. A single drop of poison will turn the test permanently positive. You can put any number of drops on a test strip at once, and you can re-use it until it comes in contact with the poison. Unfortunately, you can run a test once per day, and it takes 1 week to find out the result of the test. Write a code that finds the poisoned bottle in a minimal number of days
+
 # Code Description
 
 ''' Use Divide and Conquer Algorithm. 
