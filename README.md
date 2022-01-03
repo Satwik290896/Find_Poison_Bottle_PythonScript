@@ -15,7 +15,7 @@ Use Divide and Conquer Algorithm.
     set into 10 Disjoint Sets and repeat earlier procedure.
     
     Eventually, with this Divide and Conquer Algorithm, we can reach to the poison bottle in minimum 
-    number of weeks'''
+    number of weeks
     
 # Output    
 
