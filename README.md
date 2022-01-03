@@ -20,5 +20,7 @@ Use Divide and Conquer Algorithm.
 # Output    
 
 '''Console Output Sample'''
+
 '''Found the Sample with Poison - Sample 871'''
+
 '''Number of Weeks Required to find the Sample: 3 Weeks'''
