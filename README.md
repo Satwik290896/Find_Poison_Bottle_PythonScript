@@ -4,7 +4,7 @@ The devil decides to send you 1000 bottles of wine, but one of them is poisoned.
 
 # Code Description
 
-''' Use Divide and Conquer Algorithm. 
+Use Divide and Conquer Algorithm. 
     In Week-1, Divide the set of 1000 Wine bottles into 10 Disjoint Sets such that 
     Set-1 contains First 100 Wine Bottles (0-99), Set-2 contains Second 100 Wine Bottles etc... and 
     Wine Bottles numbered 90 to 999 goes to Set-10 . 
