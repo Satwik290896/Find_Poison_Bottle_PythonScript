@@ -9,9 +9,11 @@ The devil decides to send you 1000 bottles of wine, but one of them is poisoned.
     Set-1 contains First 100 Wine Bottles (0-99), Set-2 contains Second 100 Wine Bottles etc... and 
     Wine Bottles numbered 90 to 999 goes to Set-10 . 
     Test Each Set on one Stripe (One Drop from Each Wine Bottle)
+    
     In Week-2, Identify the Stipe that tested positive for the previous week and Identify that
     our poison bottle present in the Set that is tested on this Stripe. Then Divide this identified
-    set into 10 Disjoint Sets and repeat earlier procedure
+    set into 10 Disjoint Sets and repeat earlier procedure.
+    
     Eventually, with this Divide and Conquer Algorithm, we can reach to the poison bottle in minimum 
     number of weeks'''
     
